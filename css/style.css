@@ -89,6 +89,10 @@ div.maps{
     padding:  0 20px;
 }
 
+.slick-slide img {
+    margin: 0 50px;
+}
+
 /*KAPCSOLAT RÉSZ*/
 
 .iam{
